@@ -1,5 +1,12 @@
 package exerciciosEstruturaControle;
 
+/**
+ * Feito por Ronyeri Marinho
+ * 
+ * 02 - Crie um programa que leia um ano e verifique se é bissexto ou não.
+ * 
+ * */
+
 import java.util.Scanner;
 
 public class Exercicio02 {
